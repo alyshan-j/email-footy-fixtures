@@ -1,7 +1,6 @@
 import json
 from datetime import datetime
 
-INC = 5
 
 pl_matches = {}
 seriea_matches = {}
@@ -12,11 +11,8 @@ months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'Augus
 pl_toi = ['arsenal', 'man-utd', 'tottenham', 'man-city', 'chelsea', 'liverpool']
 seriea_toi = ['juventus', 'napoli', 'lazio', 'inter']
 
-month = months[datetime.now().month-1]
-day = datetime.now().day
-
 #prints matches of interest given fixtures and teams of interest
-def print_moi(match_dict, toi):
+def print_moi(match_dict, toi, month, day, INC):
     if month in match_dict:
         for matchday, fixtures in match_dict[month].items():
             if int(matchday) >= day and int(matchday) <= day+INC:
@@ -31,6 +27,14 @@ with open('pl-matches.json') as data:
 with open('seriea-matches.json') as data:
     seriea_matches = json.load(data)
 
-print_moi(pl_matches, pl_toi)
-print_moi(seriea_matches, seriea_toi)
+month = months[datetime.now().month-1]
+next_month = months[datetime.now().month%12]
+day = datetime.now().day
+INC = 5
+
+print_moi(seriea_matches, seriea_toi, month, day, INC)
+print_moi(pl_matches, pl_toi, month, day, INC)
+if day > 26:
+    print_moi(pl_matches, pl_toi, next_month, 1, INC)
+    print_moi(seriea_matches, seriea_toi, next_month, 1, INC)
 
