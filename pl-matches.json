@@ -1,244 +1,158 @@
 {
-  "September": {
-    "29": [
-      "west-ham-vs-man-utd",
-      "arsenal-vs-watford",
-      "everton-vs-fulham",
-      "huddsfld-vs-tottenham",
-      "man-city-vs-brighton",
-      "newcastle-vs-leicester",
-      "wolves-vs-soton",
-      "chelsea-vs-liverpool"
-    ],
-    "30": [
-      "cardiff-vs-burnley"
-    ]
-  },
-  "October": {
-    "1": [
-      "bmouth-vs-c-palace"
-    ],
-    "5": [
-      "brighton-vs-west-ham"
-    ],
-    "6": [
-      "burnley-vs-huddsfld",
-      "c-palace-vs-wolves",
-      "leicester-vs-everton",
-      "tottenham-vs-cardiff",
-      "watford-vs-bmouth",
-      "man-utd-vs-newcastle"
-    ],
-    "7": [
-      "fulham-vs-arsenal",
-      "soton-vs-chelsea",
-      "liverpool-vs-man-city"
-    ],
-    "20": [
-      "chelsea-vs-man-utd",
-      "bmouth-vs-soton",
-      "cardiff-vs-fulham",
-      "man-city-vs-burnley",
-      "newcastle-vs-brighton",
-      "west-ham-vs-tottenham",
-      "wolves-vs-watford",
-      "huddsfld-vs-liverpool"
-    ],
-    "21": [
-      "everton-vs-c-palace"
-    ],
-    "22": [
-      "arsenal-vs-leicester"
-    ],
-    "27": [
-      "brighton-vs-wolves",
-      "fulham-vs-bmouth",
-      "liverpool-vs-cardiff",
-      "soton-vs-newcastle",
-      "watford-vs-huddsfld",
-      "leicester-vs-west-ham"
-    ],
-    "28": [
-      "burnley-vs-chelsea",
-      "c-palace-vs-arsenal",
-      "man-utd-vs-everton"
-    ],
-    "29": [
-      "tottenham-vs-man-city"
-    ]
-  },
   "November": {
-    "3": [
-      "bmouth-vs-man-utd",
-      "cardiff-vs-leicester",
-      "everton-vs-brighton",
-      "man-city-vs-soton",
-      "newcastle-vs-watford",
-      "west-ham-vs-burnley",
-      "arsenal-vs-liverpool",
-      "wolves-vs-tottenham"
-    ],
-    "4": [
-      "chelsea-vs-c-palace"
-    ],
-    "5": [
-      "huddsfld-vs-fulham"
-    ],
-    "10": [
-      "cardiff-vs-brighton",
-      "huddsfld-vs-west-ham",
-      "leicester-vs-burnley",
-      "newcastle-vs-bmouth",
-      "soton-vs-watford",
-      "c-palace-vs-tottenham"
-    ],
-    "11": [
-      "liverpool-vs-fulham",
-      "chelsea-vs-everton",
-      "arsenal-vs-wolves",
-      "man-city-vs-man-utd"
-    ],
-    "24": [
-      "brighton-vs-leicester",
-      "everton-vs-cardiff",
-      "fulham-vs-soton",
-      "man-utd-vs-c-palace",
-      "watford-vs-liverpool",
-      "west-ham-vs-man-city",
-      "tottenham-vs-chelsea"
-    ],
-    "25": [
-      "bmouth-vs-arsenal",
-      "wolves-vs-huddsfld"
-    ],
-    "26": [
-      "burnley-vs-newcastle"
+    "30": [
+      "cardiff-vs-wolves"
     ]
   },
   "December": {
     "1": [
-      "arsenal-vs-tottenham",
-      "cardiff-vs-wolves",
-      "chelsea-vs-fulham",
       "c-palace-vs-burnley",
       "huddsfld-vs-brighton",
       "leicester-vs-watford",
-      "liverpool-vs-everton",
       "man-city-vs-bmouth",
       "newcastle-vs-west-ham",
       "soton-vs-man-utd"
     ],
+    "2": [
+      "chelsea-vs-fulham",
+      "arsenal-vs-tottenham",
+      "liverpool-vs-everton"
+    ],
     "4": [
       "bmouth-vs-huddsfld",
       "brighton-vs-c-palace",
-      "burnley-vs-liverpool",
-      "fulham-vs-leicester",
-      "watford-vs-man-city",
       "west-ham-vs-cardiff",
-      "wolves-vs-chelsea",
-      "man-utd-vs-arsenal"
+      "watford-vs-man-city"
     ],
     "5": [
+      "burnley-vs-liverpool",
       "everton-vs-newcastle",
+      "fulham-vs-leicester",
+      "wolves-vs-chelsea",
+      "man-utd-vs-arsenal",
       "tottenham-vs-soton"
     ],
     "8": [
-      "arsenal-vs-huddsfld",
       "bmouth-vs-liverpool",
+      "arsenal-vs-huddsfld",
       "burnley-vs-brighton",
       "cardiff-vs-soton",
-      "chelsea-vs-man-city",
-      "everton-vs-watford",
-      "leicester-vs-tottenham",
       "man-utd-vs-fulham",
-      "newcastle-vs-wolves",
-      "west-ham-vs-c-palace"
+      "west-ham-vs-c-palace",
+      "chelsea-vs-man-city",
+      "leicester-vs-tottenham"
+    ],
+    "9": [
+      "newcastle-vs-wolves"
+    ],
+    "10": [
+      "everton-vs-watford"
     ],
     "15": [
-      "brighton-vs-chelsea",
-      "c-palace-vs-leicester",
-      "fulham-vs-west-ham",
-      "huddsfld-vs-newcastle",
-      "liverpool-vs-man-utd",
       "man-city-vs-everton",
-      "soton-vs-arsenal",
+      "c-palace-vs-leicester",
+      "huddsfld-vs-newcastle",
       "tottenham-vs-burnley",
       "watford-vs-cardiff",
-      "wolves-vs-bmouth"
+      "wolves-vs-bmouth",
+      "fulham-vs-west-ham"
+    ],
+    "16": [
+      "brighton-vs-chelsea",
+      "soton-vs-arsenal",
+      "liverpool-vs-man-utd"
+    ],
+    "21": [
+      "wolves-vs-liverpool"
     ],
     "22": [
       "arsenal-vs-burnley",
       "bmouth-vs-brighton",
-      "cardiff-vs-man-utd",
       "chelsea-vs-leicester",
-      "everton-vs-tottenham",
       "huddsfld-vs-soton",
       "man-city-vs-c-palace",
       "newcastle-vs-fulham",
       "west-ham-vs-watford",
-      "wolves-vs-liverpool"
+      "cardiff-vs-man-utd"
+    ],
+    "23": [
+      "everton-vs-tottenham"
     ],
     "26": [
-      "brighton-vs-arsenal",
+      "fulham-vs-wolves",
       "burnley-vs-everton",
       "c-palace-vs-cardiff",
-      "fulham-vs-wolves",
       "leicester-vs-man-city",
       "liverpool-vs-newcastle",
       "man-utd-vs-huddsfld",
-      "soton-vs-west-ham",
       "tottenham-vs-bmouth",
+      "brighton-vs-arsenal",
       "watford-vs-chelsea"
+    ],
+    "27": [
+      "soton-vs-west-ham"
     ],
     "29": [
       "brighton-vs-everton",
-      "burnley-vs-west-ham",
-      "c-palace-vs-chelsea",
       "fulham-vs-huddsfld",
       "leicester-vs-cardiff",
-      "liverpool-vs-arsenal",
-      "man-utd-vs-bmouth",
-      "soton-vs-man-city",
       "tottenham-vs-wolves",
-      "watford-vs-newcastle"
+      "watford-vs-newcastle",
+      "liverpool-vs-arsenal"
+    ],
+    "30": [
+      "c-palace-vs-chelsea",
+      "burnley-vs-west-ham",
+      "soton-vs-man-city",
+      "man-utd-vs-bmouth"
     ]
   },
   "January": {
     "1": [
-      "arsenal-vs-fulham",
-      "bmouth-vs-watford",
-      "cardiff-vs-tottenham",
-      "chelsea-vs-soton",
       "everton-vs-leicester",
+      "arsenal-vs-fulham",
+      "cardiff-vs-tottenham"
+    ],
+    "2": [
+      "bmouth-vs-watford",
+      "chelsea-vs-soton",
       "huddsfld-vs-burnley",
-      "man-city-vs-liverpool",
-      "newcastle-vs-man-utd",
       "west-ham-vs-brighton",
-      "wolves-vs-c-palace"
+      "wolves-vs-c-palace",
+      "newcastle-vs-man-utd"
+    ],
+    "3": [
+      "man-city-vs-liverpool"
     ],
     "12": [
+      "west-ham-vs-arsenal",
       "brighton-vs-liverpool",
       "burnley-vs-fulham",
       "cardiff-vs-huddsfld",
-      "chelsea-vs-newcastle",
       "c-palace-vs-watford",
-      "everton-vs-bmouth",
       "leicester-vs-soton",
-      "man-city-vs-wolves",
-      "tottenham-vs-man-utd",
-      "west-ham-vs-arsenal"
+      "chelsea-vs-newcastle"
+    ],
+    "13": [
+      "everton-vs-bmouth",
+      "tottenham-vs-man-utd"
+    ],
+    "14": [
+      "man-city-vs-wolves"
     ],
     "19": [
-      "arsenal-vs-chelsea",
+      "wolves-vs-leicester",
       "bmouth-vs-west-ham",
-      "fulham-vs-tottenham",
-      "huddsfld-vs-man-city",
       "liverpool-vs-c-palace",
       "man-utd-vs-brighton",
       "newcastle-vs-cardiff",
       "soton-vs-everton",
       "watford-vs-burnley",
-      "wolves-vs-leicester"
+      "arsenal-vs-chelsea"
+    ],
+    "20": [
+      "huddsfld-vs-man-city",
+      "fulham-vs-tottenham"
     ],
     "29": [
       "arsenal-vs-cardiff",
@@ -246,10 +160,10 @@
       "fulham-vs-brighton",
       "huddsfld-vs-everton",
       "wolves-vs-west-ham",
-      "man-utd-vs-burnley"
+      "man-utd-vs-burnley",
+      "newcastle-vs-man-city"
     ],
     "30": [
-      "newcastle-vs-man-city",
       "soton-vs-c-palace",
       "liverpool-vs-leicester",
       "tottenham-vs-watford"
