@@ -3,6 +3,12 @@ import sys
 import re
 import json
 
+if len(sys.argv) < 3:
+    print("Please provide output file name")
+    exit()
+
+out_file = sys.argv[2]
+
 lines = []
 with open(sys.argv[1]) as file_:
     lines = file_.readlines()
@@ -25,5 +31,5 @@ for line in lines:
 
         fixtures[month][day].append(line.split('/')[4])
 
-with open("matches.json", "w") as output:
+with open(out_file, "w") as output:
     output.write(json.dumps(fixtures, indent=2))
