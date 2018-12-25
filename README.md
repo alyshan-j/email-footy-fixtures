@@ -13,6 +13,7 @@ The [skysports site](https://www.skysports.com/premier-league-fixtures).
   - GMAIL_PASS
   - RECIEVER
 
+`run.sh` shows example usage. I run this script as a cron job to get an email of my matches of interest every morning.
 
 Written & tested with Python 3.6
 
