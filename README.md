@@ -13,7 +13,6 @@ The [skysports site](https://www.skysports.com/premier-league-fixtures).
   - GMAIL_PASS
   - RECIEVER
 
-
 Written & tested with Python 3.6
 
 Enjoy.
