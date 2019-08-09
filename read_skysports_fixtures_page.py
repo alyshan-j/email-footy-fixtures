@@ -1,8 +1,13 @@
-#crawler to read fixtures from https://www.skysports.com/premier-league-fixtures
 import sys
 import re
 import json
 
+"""
+Crawler to read fixtures from https://www.skysports.com/premier-league-fixtures
+Usage: python3 read_skysports_fixtures_page.py <input> <output>
+<input> html page dump of the skysports fixtures page 
+<output> output file for the json dump of the fixtures
+"""
 if len(sys.argv) < 3:
     print("Please provide output file name")
     exit()
