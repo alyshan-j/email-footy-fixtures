@@ -1,6 +1,11 @@
 # email-footy-fixtures
 Scripts for finding soccer games of interest and emailing
 
+## Usage
+`run.sh` - I run this script as a cron job to get an email of my matches of interest every morning
+`dryrun.sh` - Same as above but without sending an email
+
+## DeSCRIPTions
 `read_skysports_fixtures_page.py` was used to crawl a skysports page and create a json dump of a league schedule.
 The [skysports site](https://www.skysports.com/premier-league-fixtures).
 
@@ -12,8 +17,6 @@ The [skysports site](https://www.skysports.com/premier-league-fixtures).
   - GMAIL_USER
   - GMAIL_PASS
   - RECIEVER
-
-`run.sh` shows example usage. I run this script as a cron job to get an email of my matches of interest every morning.
 
 Written & tested with Python 3.6
 
